@@ -1,7 +1,11 @@
-# Stock-Prediction-App
+
+🚀 **Live Demo:**  
+👉 https://stock-prediction-app-1-k6sc.onrender.com
+
+# Stock-Prediction-App (Streamlit + Prophet + Render)
 A Streamlit-based stock prediction app that visualizes historical market data, forecasts future prices using Prophet, and generates Buy/Sell/Hold signals to help analyze market trends.
 This Stock Prediction App is a web-based application built with Streamlit that allows users to explore historical stock market data and generate future price forecasts. Using Yahoo Finance for data retrieval and Facebook Prophet for time-series forecasting, the app provides interactive visualizations along with Buy, Sell, and Hold signals based on predicted price movements. The goal of the project is to demonstrate practical applications of time-series analysis in financial data.
-# 📈 Stock Prediction App (Streamlit + Prophet)
+# 📈 Stock Prediction App 
 
 A web-based stock price forecasting application built with **Streamlit**, **Yahoo Finance**, and **Facebook Prophet**.  
 The app allows users to visualize historical stock prices, generate future price forecasts, and receive **Buy / Sell / Hold** signals based on predicted trends.
